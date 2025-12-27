@@ -1069,7 +1069,7 @@ with col2:
     st.markdown("""
     <div style="text-align: center; color: #64748b; font-size: 0.8rem;">
         <b>Last Updated:</b> December 27, 2025<br>
-        <b>Analysis:</b> Base44 Analytics
+        <b>Analysis:</b> My App Analytics
     </div>
     """, unsafe_allow_html=True)
 
